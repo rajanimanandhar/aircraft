@@ -2,4 +2,3 @@
 * text=auto
 <Aircraft/**> filter=lfs diff=lfs merge=lfs -text
 GitHub/aircraft/Aircraft/** filter=lfs diff=lfs merge=lfs -text
-Aircraft/** filter=lfs diff=lfs merge=lfs -text
